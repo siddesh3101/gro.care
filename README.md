@@ -4,8 +4,8 @@ Tiktok like ui using flutter
  
  # To run simply clone this repo and run flutter pub get
 
-![img](screenshot1.png "TikTok")
-![img](screenshot2.png "TikTok")
+![img](screenshot1.jpg "TikTok")
+![img](screenshot2.jpg "TikTok")
 ## Demo
 
 <!-- ![](demo.gif "Demo") -->
